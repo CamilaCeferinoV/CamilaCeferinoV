@@ -1,4 +1,4 @@
-### ¡Hola! Soy Alexandra 👋
+### ¡Hola! Soy Camila 👋
 
 Soy estudiante de Ingeniería Industrial apasionada por la intersección entre la gestión de proyectos, la automatización, y los sistemas inteligentes orientados a la Industria 4.0. 
 
@@ -11,7 +11,7 @@ Soy estudiante de Ingeniería Industrial apasionada por la intersección entre l
 **🌱 Actualmente explorando:**
 *   **Data y Hardware:** SQL, Power BI, Arduino.
 
-**🚀 Sobre mí:**
+**Sobre mí:**
 Busco adentrarme en el ecosistema tecnológico para aportar mis habilidades organizativas y visión de procesos al desarrollo de robótica e inteligencia computacional. Creé este espacio para documentar mis hitos técnicos, compartir mis próximos proyectos y construir en público.
 
 <!--
